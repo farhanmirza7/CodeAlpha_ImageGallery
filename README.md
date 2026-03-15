@@ -1,4 +1,4 @@
-# Task 1: Interactive Image Gallery
+# Task 2: Interactive Image Gallery
 A responsive image gallery built during my CodeAlpha internship.
 
 ## Features
